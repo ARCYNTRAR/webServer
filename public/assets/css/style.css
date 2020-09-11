@@ -1,0 +1,19 @@
+
+footer{
+    background-color: #353A3F;
+    color: #fff;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    padding: 15px;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor{
+    margin: 0 15px;
+}
